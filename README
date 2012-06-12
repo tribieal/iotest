@@ -1,0 +1,6 @@
+10 dirs
+
+cd to 1 dir 
+run ./test10.sh open 10 cp process to cp and rm 10M files.
+
+If you want another 10 process cd to iotest2 and do again.
